@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "107250125898",
+    "firebase_url": "https://fir-notification-f4854.firebaseio.com",
+    "project_id": "fir-notification-f4854",
+    "storage_bucket": "fir-notification-f4854.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107250125898:android:f1f3a87527417869",
+        "android_client_info": {
+          "package_name": "com.example.android.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107250125898-7t8smitetpe619h0643pnt897v31as75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxiNCE7_nbBBtdi6PvfZkLX9wgBoJoamo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107250125898-7t8smitetpe619h0643pnt897v31as75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
